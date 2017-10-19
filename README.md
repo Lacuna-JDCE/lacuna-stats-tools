@@ -14,6 +14,9 @@ Then run step 0 and then step 5 (skip step 1, 2, 3 and 4).
 
 
 
+
+## Usage
+
 ### 0. Install required packages
 Run `npm install` in the following folders:
 
