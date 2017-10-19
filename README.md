@@ -1,5 +1,5 @@
 # Statistics retrieval
-This folder contains scripts that can be utilized to retrieve information about web applications modified by different analysis tools.
+This folder contains scripts that can be utilized to retrieve information about web applications modified by different analysis tools (e.g. https://github.com/nielsgrootobbink/lacuna).
 
 
 
@@ -28,7 +28,7 @@ Run `npm install` in the following folders:
 ### 1. Setup
 Create a folder named _processed_.
 For each application, create a folder in the _processed_ folder (e.g. _processed/my-app/_)
-In this folder, add the different versions, modified by analyzers (e.g. _processed/my-app/original/_, _processed/my-app/static/_, _processed/my-app/dynamic/_).
+In this folder, add the different versions, modified by different analyzers (e.g. _processed/my-app/original/_, _processed/my-app/static/_, _processed/my-app/dynamic/_).
 
 
 ### 2. Modify scripts
