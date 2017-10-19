@@ -65,4 +65,4 @@ Run
 node remove_duplicates.js
 node statistics.js <type>
 ```
-This should output a LaTeX table (for analysis type _<type>_) for each entry in the `list.txt` file.
+This should output a LaTeX table (for analysis type _type_) for each entry in the `list.txt` file.
