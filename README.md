@@ -9,7 +9,7 @@ Several steps modify the application irreversably, so *make a backup* before you
 
 
 ## Note on pre-processed data
-If you already have pre-processed (e.g. https://github.com/NielsGrootObbink/jdce-thesis-data) data, simply copy `list.txt` and the `processed` directory to this directory.
+If you already have pre-processed (e.g. https://github.com/NielsGrootObbink/lacuna-test-data) data, simply copy `list.txt` and the `processed` directory to this directory.
 Then run step 0 and then step 5 (skip step 1, 2, 3 and 4).
 
 
